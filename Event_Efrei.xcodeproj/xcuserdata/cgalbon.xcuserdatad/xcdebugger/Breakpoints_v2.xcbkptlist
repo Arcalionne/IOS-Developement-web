@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "399D409E-5F32-4B5B-B065-713456C891CB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "400C69ED-5CC3-4A58-A8B8-EDE00AB738CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Event_EfreiTests/Event_EfreiTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "Event_EfreiTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF9DA4F2-19F5-405E-B9AD-A0155DF5A455"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Event_Efrei/ScheduleAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getSchedule(callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DF9DA4F2-19F5-405E-B9AD-A0155DF5A455 - 51702b57fb65b65e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Event_Efrei.ScheduleApiCall.getSchedule(callback: ((errorType: Swift.Optional&lt;Event_Efrei.CustomError&gt;, errorMessage: Swift.Optional&lt;Swift.String&gt;), Swift.Optional&lt;Swift.Array&lt;Event_Efrei.Event&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Event_Efrei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cgalbon/Desktop/Event_Efrei/Event_Efrei/ScheduleAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "190">
+               </Location>
+               <Location
+                  uuid = "DF9DA4F2-19F5-405E-B9AD-A0155DF5A455 - 51702b57fb65b65e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Event_Efrei.ScheduleApiCall.getSchedule(callback: ((errorType: Swift.Optional&lt;Event_Efrei.CustomError&gt;, errorMessage: Swift.Optional&lt;Swift.String&gt;), Swift.Optional&lt;Swift.Array&lt;Event_Efrei.Event&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Event_Efrei"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cgalbon/Desktop/Event_Efrei/Event_Efrei/ScheduleAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A627AA3-48B6-46E6-A9B6-28B1DD249E5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Event_Efrei/ScheduleAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getSchedule(callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60698FBD-ED95-4A1B-B236-D011CDC99B3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Event_Efrei/ScheduleAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getSchedule(callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
